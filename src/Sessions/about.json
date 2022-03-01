@@ -1,0 +1,30 @@
+{
+  "t": "A Learning Path for Church Digital Transformation",
+  "assets": [
+    {
+      "type": "link",
+      "key": "forum"
+    }
+  ],
+  "sections": [
+    {
+      "t": "A Learning Path for Church Digital Transformation",
+      "d": [
+        "Digital transformation is the process of reimagining what we do and how we do it given what is possible with new and emerging technologies. The COVID-19 pandemic forced churches to shift from primarily physical to predominantly digital activities, and churches will need to sustain some form of this digital transition for the foreseeable future.",
+        "As churches continue to cultivate their digital presence, church leaders have an opportunity to explore the best ways to prioritize digital engagement over physical encounters. However temporary this “digital first” approach may be, it promises to enrich the life of the post-pandemic church.",
+        "Once we were pre-digital, and in the future we will be post-digital: Instead of viewing digital technologies as something separate from or simple substitutes for physical interactions, we will see these technologies deeply integrated into our lives and world.",
+        "The resources in this learning path, created by the Church Digital Transformation Project at Seattle Pacific University with funding from the M. J. Murdock Charitable Trust, were created to help church leaders reflect on how present digital transitions may become digital transformations."
+      ],
+      "parts": [
+        {
+          "type": "cta", 
+          "d": "Continue the conversation about Church Digital Transformation on the CDX Forum",
+          "payload": {
+            "key": "forum", 
+            "label": "Join the Forum"
+          }
+        }
+      ]
+    }
+  ]
+}

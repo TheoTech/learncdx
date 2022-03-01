@@ -1,0 +1,132 @@
+{
+  "t": "Module 1",
+  "assets": [
+    {
+      "type": "video",
+      "key": "distanced-church"
+    },
+    {
+      "type": "video",
+      "key": "strategies-for-transformation"
+    },
+    {
+      "type": "video",
+      "key": "responses-to-transformation"
+    },
+    {
+      "type": "video",
+      "key": "protecting-attention"
+    },
+    {
+      "type": "video",
+      "key": "churches-and-libraries"
+    }
+  ],
+  "sections": [
+    {
+      "t": "Navigating the Digital Turn",
+      "d": "In this module we will explore why church digital transformation is important."
+    },
+    {
+      "t": "The Distanced Church (50 mins)",
+      "d": "Digital media scholar Heidi Campbell shares her framework for thinking about how churches are going online: transfer, translate and transform.",
+      "duration": 50,
+      "parts": [
+        {
+          "type": "watch",
+          "payload": {
+            "video": "distanced-church"
+          }
+        },
+        {
+          "type": "discuss",
+          "d": "What is the difference between digital transition and digital transformation?"
+        }
+      ]
+    },
+    {
+      "t": "Strategies for Church Digital Transformation (30 mins)",
+      "d": "How might digital transformation advance the mission of the church?",
+      "parts": [
+        {
+          "type": "watch",
+          "d": "Michael Paulus (SPU) and Chris Lim (TheoTech) discuss what the \"post-digital Church\" might look like and how we can respond to that future. We cover a bit of history, three kinds of responses to digital disruptions, and how to develop counter-formative practices to fulfill God's purposes for digital transformation.",
+          "payload": {
+            "video": "strategies-for-transformation"
+          }
+        }
+      ]
+    },
+    {
+      "t": "Focused Clips on Digital Transformation (20 mins)",
+      "duration": 20,
+      "d": "Through these highlighted video excerpts, discuss the ways we can respond to digital transformation.",
+      "parts": [
+        {
+          "t": "Responses to Digital Transformation",
+          "type": "watch",
+          "d": "This clip recounts 3 possible responses to digital transformation.",
+          "payload": {
+            "video": "responses-to-transformation"
+          }
+        },
+        {
+          "type": "discuss",
+          "d": [
+            "We have three main options when confronted with technological change: rejection, critical acceptance, and proactive design.",
+            "What is your approach?"
+          ]
+        },
+        {
+          "t": "Protecting Attention",
+          "type": "watch",
+          "d": "Our attention is a very precious resource. So many tech companies are aggressively vying to captivate, capture, and commoditize it.",
+          "payload": {
+            "video": "protecting-attention"
+          }
+        },
+        {
+          "type": "discuss",
+          "d": [
+            "What counter-formative practices can help protect attention?"
+          ]
+        },
+        {
+          "t": "What Churches Can Learn From Libraries",
+          "type": "watch",
+          "d": "Libraries once did everything on their own, but today they work through networks to share resources so each library can focus on its local community.",
+          "payload": {
+            "video": "churches-and-libraries"
+          }
+        },
+        {
+          "type": "discuss",
+          "d": [
+            "How can churches learn to think local and act globally?",
+            "How can your church serve as a portal into the larger community of faith?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Next Steps",
+      "info": "Congratulations! You've completed Module 1. In the next module you will draw lessons from Church History and the Bible and apply them to our present times.",
+      "parts": [
+        {
+          "t": "#CDX",
+          "d": [
+            "Continue the conversation around these ideas on the CDX Forum.",
+            {
+              "type": "link",
+              "payload": {
+                "key": "forum",
+                "label": "Join the Forum"
+              }
+            },
+            " "
+          ]
+        }
+      ]
+    }
+  ]
+}

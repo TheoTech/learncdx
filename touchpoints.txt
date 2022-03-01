@@ -1,0 +1,20 @@
+Change package.json package name
+Fill in Page Title in public/index.html with actual app name
+Set theme colors in theme.js
+Fill out Sessions/index.json
+Generate Sessions/about.json
+Generate public/manifest.json
+Accept and generate favicon and logo
+Generate public/locales
+Generate Components/zume => Components/pwa files
+Set list of languages in I18n/languages.json
+
+Specify what we want in the Menu / navigation
+
+What is base asset URL?
+Where are files hosted?
+How do we deal with youtube videos?
+Can we make the ability to download videos optional?
+
+How do we add the ability to enhance with 1:1 calls with Twilio Go?
+
