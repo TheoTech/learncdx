@@ -10,8 +10,6 @@ import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 import ListItemLink from 'Components/shared/navigation/ListItemLink';
 import ListItemSecondaryAction from '@material-ui/core/ListItemSecondaryAction';
-import CloudDownloadIcon from '@material-ui/icons/CloudDownloadOutlined';
-import TranslateIcon from '@material-ui/icons/TranslateOutlined';
 import InfoIcon from '@material-ui/icons/InfoOutlined';
 import ForumIcon from '@material-ui/icons/Forum';
 import DeleteForeverIcon from '@material-ui/icons/DeleteForever';
@@ -21,7 +19,6 @@ import { useDispatch } from 'react-redux';
 import { useTranslation } from 'react-i18next';
 import {
   useAppTranslation,
-  useLocalizedAsset,
 } from 'Components/zume/translationHooks';
 import { RESET_STATE } from '@redux-offline/redux-offline/lib/constants';
 import { reset } from 'Redux/store';
@@ -39,7 +36,6 @@ export default function Menu() {
   const dispatch = useDispatch();
   const { t } = useTranslation();
   const trans = useAppTranslation();
-  const asset = useLocalizedAsset();
   const [resetting, setResetting] = useState(false);
 
   return (

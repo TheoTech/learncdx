@@ -4,13 +4,11 @@ import './index.css';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import 'I18n';
 import { Router, View } from 'react-navi';
-import * as serviceWorker from './serviceWorker';
 import routes from './routes';
 import RTL, { DirectionalOuterTheme } from './rtl';
 import { Provider } from 'react-redux';
 import store, { persistor } from 'Redux/store';
 import { PersistGate } from 'redux-persist/es/integration/react';
-import lifecycleSlice from 'Redux/lifecycle';
 import { loadSessions } from 'Redux/sessions';
 import Splash from 'Components/shared/Splash';
 
