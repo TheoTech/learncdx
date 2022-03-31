@@ -1,0 +1,3 @@
+{
+  "plugins": ["macros", "@babel/plugin-syntax-dynamic-import"] // see https://github.com/storybookjs/storybook/issues/4479
+}
